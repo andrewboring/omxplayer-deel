@@ -1,4 +1,7 @@
-# Maintainer: Kevin Mihelich <kevin@archlinuxarm.org>
+# Maintainer: Andrew Boring <andrew@andrewboring.com>
+# Contributor: Barry Gilbert <barry@deelmedia.com>
+# Based on the original Arch Linux Arm build by:
+# Kevin Mihelich <kevin@archlinuxarm.org>
 # Contributor: Huulivoide <gmail.com: jesse.jaara>
 # Contributor: Jonathan Hudson <daria.co.uk: jh+arch>
 
