@@ -20,8 +20,7 @@ optdepends=('ttf-freefont')
 provides=(omxplayer)
 conflicts=('omxplayer' 'omxplayer-bin')
 source=('git://github.com/deelmedia/omxplayer.git')
-md5sums=('SKIP'
-         'ec889c9d5e4d361ab9b4248633e429da')
+md5sums=('SKIP')
 
 pkgver() {
   cd omxplayer
